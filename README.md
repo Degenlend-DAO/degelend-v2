@@ -1,2 +1,2 @@
-# degelend-v2
+# degenlend-v2
 This is the cross-platform flutter implementation of the UI
